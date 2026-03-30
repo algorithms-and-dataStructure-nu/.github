@@ -3,7 +3,7 @@
     - 基本的な演算: Basic Operations
     - データ型: Data Types
     - 制御構文: Control Structures
-2. [基本的なデータ構造: Basic Data Structures](https://github.com/algorithms-and-dataStructure-nu/02.BasicDataStructures/)
+2. [基本的なデータ構造: Basic Data Structures](https://github.com/algorithms-and-dataStructure-nu/02.BasicDataStructure/)
     - リスト: List
     - 集合: Set
     - 辞書: Dictionary
