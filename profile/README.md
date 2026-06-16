@@ -38,6 +38,7 @@
 11. [Euler閉路とHamilton閉路: Eulerian and Hamiltonian Paths](https://github.com/algorithms-and-dataStructure-nu/11.EulerAndHamiltonCircuits/)
     - Euler閉路: Eulerian Path
     - Hamilton閉路: Hamiltonian Path
-12. [グラフ探索: Graph Search](https://github.com/algorithms-and-dataStructure-nu/12.GraphSearch/)
-    - 深さ優先探索: Depth-First Search
+12. [幅優先探索: Breadth-First Search](https://github.com/algorithms-and-dataStructure-nu/12.BreadthFirstSearch/)
     - 幅優先探索: Breadth-First Search
+13. [深さ優先探索: Depth-First Search](https://github.com/algorithms-and-dataStructure-nu/13.DepthFirstSearch/)
+    - 深さ優先探索: Depth-First Search
